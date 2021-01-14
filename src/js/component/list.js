@@ -13,7 +13,7 @@ export function List() {
 	};
 	return (
 		<div className="container">
-			<div className="d-flex justify-content-center">
+			<div className="d-flex justifyg-content-center">
 				<h1>todos</h1>
 			</div>
 			<ul className="list-group">
